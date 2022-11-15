@@ -1,0 +1,18 @@
+import java.intil.*;
+public class task 2
+{
+    public static void name(string []args)
+    {
+        scanner sc.new
+        scanner(system.in);
+        int x=sc.nextlnt();
+        if(x%2==O)
+        {
+            system.out.println("even");
+        }
+        else
+        {
+            system.out.println("odd");
+        }
+    }
+}
